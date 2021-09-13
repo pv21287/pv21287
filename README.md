@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pv21287
-- 👀 I’m interested in ... 
+- 👀 I’m interested in ... SQL devloper
 - 🌱 I’m currently learning ...applied  data science 
 - 💞️ I’m looking to collaborate on ... university of essex
 - 📫 How to reach me ... 07466366740
